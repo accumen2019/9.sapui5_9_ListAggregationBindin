@@ -3,7 +3,6 @@
 ## Odata model Aggregation binding-List(using - Web IDE)
 
 ## Program Description:
-How view and controller works together based on mvc architecture. A simple example. No involvement of model in this example.
 
 ## Contributing
 1. Fork it!
